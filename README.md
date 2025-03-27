@@ -54,7 +54,7 @@ This will help use generate some new columns from existing ones.
 ![selling_prod_line](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/selling%20product%202.png)
 
 ### 3. Which city has the largest tax percent/ VAT (Value Added Tax)?
-![VAT](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20.png)
+![VAT](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20%203.png)
 
 ### 4.Which city has the highest revenue?
 ![Highest_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png) 
