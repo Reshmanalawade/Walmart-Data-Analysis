@@ -75,4 +75,4 @@ This will help use generate some new columns from existing ones.
 ![cus_vat](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/cus_vat%209.png)
 
 ### 10. What is the total revenue by month?
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Revenue%20by%20month.png)
+![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Revenue%20by%20month%2010.png)
