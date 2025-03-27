@@ -1,5 +1,4 @@
-![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
-
+<img src="./coffee.jpg" width="3000" height="600"/>&nbsp;
 
 # Walmart-Sales-Data-Analysis--SQL-Project
 ## About
