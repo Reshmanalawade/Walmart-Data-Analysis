@@ -36,6 +36,7 @@ During this initial phase, the data is examined to detect any NULL or missing va
 - Select columns with null values in them. Null values are not present in our database because, in creating the tables, NOT NULL was specified for each field, effectively filtering out any null values.
 
 ***2.	Feature Engineering***
+
 This will help use generate some new columns from existing ones.
 - Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 - Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
