@@ -71,8 +71,8 @@ This will help use generate some new columns from existing ones.
 ### 8. Which time of the day do customers give most ratings?
 ![Cus_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Cus_Rating.png) 
 
-### 9. Identify the customer type that generates the highest revenue.
-![](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20high%20revenue.png)
+### 9. Which customer type pays the most in VAT?
+![cus_vat](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20high%20revenue.png)
 
 ### 10. What is the total revenue by month?
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Revenue%20by%20month.png)
