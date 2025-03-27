@@ -49,7 +49,7 @@ This will help use generate some new columns from existing ones.
 ![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/city%20img.png) 
 
 ### 2. What is the most selling product line?
-![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/cus_sales%20.png)
 
 ### 3. Which city has the largest tax percent/ VAT (Value Added Tax)?
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20.png)
