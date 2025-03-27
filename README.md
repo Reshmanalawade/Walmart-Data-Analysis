@@ -48,7 +48,7 @@ This will help use generate some new columns from existing ones.
 
 ### 1. How many distinct cities are present in the dataset?
 
-![City](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/city%20img.png) 
+![City](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/city%20img%201.png) 
 
 ### 2. What is the most selling product line?
 ![selling_prod_line](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/cus_sales%20.png)
