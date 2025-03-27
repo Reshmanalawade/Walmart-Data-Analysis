@@ -1,4 +1,4 @@
-<img src="./coffee.jpg" width="3000" height="600"/>&nbsp;
+<img src="./Walmart img.jpg" width="3000" height="600"/>&nbsp;
 
 # Walmart-Sales-Data-Analysis--SQL-Project
 ## About
