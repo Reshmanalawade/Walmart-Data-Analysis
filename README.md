@@ -57,7 +57,7 @@ This will help use generate some new columns from existing ones.
 ![VAT](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20%203.png)
 
 ### 4.Which city has the highest revenue?
-![Highest_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png) 
+![Highest_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue%204.png) 
 
 ### 5. Which day of the week has the best avg ratings?
 ![Average_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating.png)
