@@ -64,7 +64,7 @@ This will help use generate some new columns from existing ones.
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20.png)
 
 ### 7. Identify the customer type that generates the highest revenue.
-![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png)
 
 ### 8. Which time of the day do customers give most ratings?
 ![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Cus_Rating.png) 
