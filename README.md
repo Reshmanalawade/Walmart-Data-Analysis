@@ -55,7 +55,7 @@ This will help use generate some new columns from existing ones.
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20.png)
 
 ### 4.Which city has the highest revenue?
-![Customer Info](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/EMAIL_ID_LIST.png) 
+![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png) 
 
 ### 5. Which day of the week has the best avg ratings?
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating.png)
