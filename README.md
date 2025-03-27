@@ -58,7 +58,7 @@ This will help use generate some new columns from existing ones.
 ![Customer Info](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/EMAIL_ID_LIST.png) 
 
 ### 5. Which day of the week has the best avg ratings?
-![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating.png)
 
 ### 6. Which customer type buys the most?
 ![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
