@@ -46,7 +46,7 @@ This will help use generate some new columns from existing ones.
 
 ### 1. How many distinct cities are present in the dataset?
 
-![Customer Info](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/EMAIL_ID_LIST.png) 
+![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/city%20img.png) 
 
 ### 2. What is the most selling product line?
 ![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
