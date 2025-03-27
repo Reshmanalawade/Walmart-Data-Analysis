@@ -60,7 +60,7 @@ This will help use generate some new columns from existing ones.
 ![Highest_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue%204.png) 
 
 ### 5. Which day of the week has the best avg ratings?
-![Average_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating.png)
+![Average_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating%205.png)
 
 ### 6. Which customer type buys the most?
 ![customer](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20.png)
