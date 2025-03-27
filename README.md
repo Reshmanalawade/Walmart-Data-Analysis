@@ -42,6 +42,35 @@ This will help use generate some new columns from existing ones.
 - Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
 
+## Queries and Visualizations
 
+### 1. How many distinct cities are present in the dataset?
 
+![Customer Info](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/EMAIL_ID_LIST.png) 
 
+### 2. What is the most selling product line?
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+
+### 3. Which city has the largest tax percent/ VAT (Value Added Tax)?
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+
+### 4.Which city has the highest revenue?
+![Customer Info](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/EMAIL_ID_LIST.png) 
+
+### 5. Which day of the week has the best avg ratings?
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+
+### 6. Which customer type buys the most?
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+
+### 7. Identify the customer type that generates the highest revenue.
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+
+### 8. Which time of the day do customers give most ratings?
+![Customer Info](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/EMAIL_ID_LIST.png) 
+
+### 9. Identify the customer type that generates the highest revenue.
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+
+### 10. What is the total revenue by month?
+![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
