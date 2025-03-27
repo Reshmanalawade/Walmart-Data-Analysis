@@ -48,31 +48,31 @@ This will help use generate some new columns from existing ones.
 
 ### 1. How many distinct cities are present in the dataset?
 
-![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/city%20img.png) 
+![City](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/city%20img.png) 
 
 ### 2. What is the most selling product line?
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/cus_sales%20.png)
+![selling_prod_line](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/cus_sales%20.png)
 
 ### 3. Which city has the largest tax percent/ VAT (Value Added Tax)?
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20.png)
+![VAT](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/VAT%20.png)
 
 ### 4.Which city has the highest revenue?
-![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png) 
+![Highest_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png) 
 
 ### 5. Which day of the week has the best avg ratings?
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating.png)
+![Average_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating.png)
 
 ### 6. Which customer type buys the most?
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20.png)
+![customer](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20.png)
 
 ### 7. Identify the customer type that generates the highest revenue.
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png)
+![customer_high_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png)
 
 ### 8. Which time of the day do customers give most ratings?
-![Customer Info](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Cus_Rating.png) 
+![Cus_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Cus_Rating.png) 
 
 ### 9. Identify the customer type that generates the highest revenue.
-![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20high%20revenue.png)
+![](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20high%20revenue.png)
 
 ### 10. What is the total revenue by month?
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Revenue%20by%20month.png)
