@@ -73,4 +73,4 @@ This will help use generate some new columns from existing ones.
 ![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20high%20revenue.png)
 
 ### 10. What is the total revenue by month?
-![Cheapest Rental](https://github.com/Reshmanalawade/Maven_Movies_Rental/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
+![Cheapest Rental](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Revenue%20by%20month.png)
