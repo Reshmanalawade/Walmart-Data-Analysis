@@ -41,6 +41,8 @@ This will help use generate some new columns from existing ones.
 - Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
 - Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
+# Tools & Library Used
+<img src="https://github.com/manasvipatil2002/Pizza_sales_analysis/blob/main/mysql_img.png" width="200" height="200"/>&nbsp;
 
 ## Query Task
 
