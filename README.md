@@ -63,7 +63,7 @@ This will help use generate some new columns from existing ones.
 ![Average_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Average%20rating%205.png)
 
 ### 6. Which customer type buys the most?
-![customer](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%20.png)
+![customer](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%206.png)
 
 ### 7. Identify the customer type that generates the highest revenue.
 ![customer_high_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png)
