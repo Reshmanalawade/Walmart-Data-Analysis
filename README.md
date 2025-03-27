@@ -66,7 +66,7 @@ This will help use generate some new columns from existing ones.
 ![customer](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Customer%206.png)
 
 ### 7. Identify the customer type that generates the highest revenue.
-![customer_high_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/highest%20revenue.png)
+![customer_high_revenue](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/cus_sales%20%207.png)
 
 ### 8. Which time of the day do customers give most ratings?
 ![Cus_rating](https://github.com/Reshmanalawade/Walmart-Data-Analysis/blob/main/Output/Cus_Rating.png) 
