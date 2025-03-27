@@ -1,2 +1,2 @@
-# Walmart-Data-Analysis
-Walmart Data Analysis Project
+Walmart-Sales-Data-Analysis--SQL-Project
+
